@@ -1,6 +1,3 @@
-Here's a comprehensive **README.md** for your Food Ordering Application repository:
-
-
 # 🍔 Food Ordering Application
 
 A full-stack food ordering platform with React frontend and Spring Boot backend, featuring JWT authentication, cart management, and order processing.
