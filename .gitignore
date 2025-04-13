@@ -1,0 +1,56 @@
+# Maven build directory
+target/
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Eclipse project files
+.project
+.classpath
+.settings/
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Logs
+*.log
+*.log.gz
+*.log-*.gz
+logs/
+
+# Environment variable files (e.g., credentials)
+.env
+env.properties
+secrets.yml
+
+# Build artifacts
+*.jar
+*.war
+*.ear
+
+# Gradle build files
+.gradle/
+build/
+!gradle-wrapper.jar
+
+# Node modules (if using frontend frameworks)
+node_modules/
+
+# Other IDEs and tools
+*.swp
+*.tmp
+*.bak
+*.orig
+*.rej
+*.sublime-workspace
+*.sublime-project
