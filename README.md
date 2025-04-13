@@ -148,7 +148,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
 
-Aryan Parishwad - [your.email@example.com](mailto:aryanparishwad@gmail.com)
+Aryan Parishwad - [aryanparishwad@gmail.com](mailto:aryanparishwad@gmail.com)
 
 Project Link: [https://github.com/AryanParishwad/food-ordering-app](https://github.com/AryanParishwad/food-ordering-app)
 
